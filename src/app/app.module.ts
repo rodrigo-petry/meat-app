@@ -11,7 +11,7 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { RestaurantsComponent } from './restaurants/restaurants.component';
 import { RestaurantComponent } from './restaurants/restaurant/restaurant.component'
-import { RestaurantsService } from './restaurants/restaurant/restaurants.service'
+import { RestaurantsService } from './restaurants/restaurants.service'
 
 
 @NgModule({
